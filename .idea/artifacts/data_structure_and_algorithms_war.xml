@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="data_structure_and_algorithms:war">
+    <output-path>$PROJECT_DIR$/data_structure_and_algorithms/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>data_structure_and_algorithms</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="data_structure_and_algorithms.war">
+      <element id="artifact" artifact-name="data_structure_and_algorithms:war exploded" />
+    </root>
+  </artifact>
+</component>

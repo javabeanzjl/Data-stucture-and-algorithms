@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Data-stucture-and-algorithms.iml" filepath="$PROJECT_DIR$/.idea/Data-stucture-and-algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data_structure_and_algorithms/data_structure_and_algorithms.iml" filepath="$PROJECT_DIR$/data_structure_and_algorithms/data_structure_and_algorithms.iml" />
+    </modules>
+  </component>
+</project>
